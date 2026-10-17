@@ -1,0 +1,1 @@
+ALTER TABLE `goals` ADD `reminder_hidden` integer DEFAULT false NOT NULL;
